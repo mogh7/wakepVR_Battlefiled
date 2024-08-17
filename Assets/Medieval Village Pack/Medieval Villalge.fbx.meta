@@ -1,0 +1,2788 @@
+fileFormatVersion: 2
+guid: c0e68fafd772e384090f37d86d3639e2
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Anvil
+  - first:
+      1: 100002
+    second: Balcony
+  - first:
+      1: 100004
+    second: Balcony Prop
+  - first:
+      1: 100006
+    second: Balcony Prop.001
+  - first:
+      1: 100008
+    second: Balcony Prop.002
+  - first:
+      1: 100010
+    second: Barrel
+  - first:
+      1: 100012
+    second: Barrel.001
+  - first:
+      1: 100014
+    second: Bench
+  - first:
+      1: 100016
+    second: Bench.001
+  - first:
+      1: 100018
+    second: Bench.002
+  - first:
+      1: 100020
+    second: Big Stone 0
+  - first:
+      1: 100022
+    second: Big Stone 1
+  - first:
+      1: 100024
+    second: Big Stone 10
+  - first:
+      1: 100026
+    second: Big Stone 11
+  - first:
+      1: 100028
+    second: Big Stone 12
+  - first:
+      1: 100030
+    second: Big Stone 13
+  - first:
+      1: 100032
+    second: Big Stone 14
+  - first:
+      1: 100034
+    second: Big Stone 15
+  - first:
+      1: 100036
+    second: Big Stone 16
+  - first:
+      1: 100038
+    second: Big Stone 17
+  - first:
+      1: 100040
+    second: Big Stone 18
+  - first:
+      1: 100042
+    second: Big Stone 19
+  - first:
+      1: 100044
+    second: Big Stone 2
+  - first:
+      1: 100046
+    second: Big Stone 20
+  - first:
+      1: 100048
+    second: Big Stone 21
+  - first:
+      1: 100050
+    second: Big Stone 22
+  - first:
+      1: 100052
+    second: Big Stone 23
+  - first:
+      1: 100054
+    second: Big Stone 3
+  - first:
+      1: 100056
+    second: Big Stone 4
+  - first:
+      1: 100058
+    second: Big Stone 5
+  - first:
+      1: 100060
+    second: Big Stone 6
+  - first:
+      1: 100062
+    second: Big Stone 7
+  - first:
+      1: 100064
+    second: Big Stone 8
+  - first:
+      1: 100066
+    second: Big Stone 9
+  - first:
+      1: 100068
+    second: Board 0
+  - first:
+      1: 100070
+    second: Board 1.001
+  - first:
+      1: 100072
+    second: Board 10
+  - first:
+      1: 100074
+    second: Board 11
+  - first:
+      1: 100076
+    second: Board 12
+  - first:
+      1: 100078
+    second: Board 13
+  - first:
+      1: 100080
+    second: Board 14
+  - first:
+      1: 100082
+    second: Board 15
+  - first:
+      1: 100084
+    second: Board 16
+  - first:
+      1: 100086
+    second: Board 17
+  - first:
+      1: 100088
+    second: Board 18
+  - first:
+      1: 100090
+    second: Board 19
+  - first:
+      1: 100092
+    second: Board 2
+  - first:
+      1: 100094
+    second: Board 20
+  - first:
+      1: 100096
+    second: Board 3
+  - first:
+      1: 100098
+    second: Board 4
+  - first:
+      1: 100100
+    second: Board 5
+  - first:
+      1: 100102
+    second: Board 6
+  - first:
+      1: 100104
+    second: Board 7
+  - first:
+      1: 100106
+    second: Board 8
+  - first:
+      1: 100108
+    second: Board 9
+  - first:
+      1: 100110
+    second: Bowl
+  - first:
+      1: 100112
+    second: Box
+  - first:
+      1: 100114
+    second: Box.001
+  - first:
+      1: 100116
+    second: Bridge
+  - first:
+      1: 100118
+    second: Bridge Prop
+  - first:
+      1: 100120
+    second: Bridge Prop.001
+  - first:
+      1: 100122
+    second: Bridge.001
+  - first:
+      1: 100124
+    second: Bucket
+  - first:
+      1: 100126
+    second: Cellar
+  - first:
+      1: 100128
+    second: Chair
+  - first:
+      1: 100130
+    second: Chair.001
+  - first:
+      1: 100132
+    second: Chair.002
+  - first:
+      1: 100134
+    second: Chest
+  - first:
+      1: 100136
+    second: Chest1
+  - first:
+      1: 100138
+    second: Chest2
+  - first:
+      1: 100140
+    second: Chimney
+  - first:
+      1: 100142
+    second: Cube.125
+  - first:
+      1: 100144
+    second: Door
+  - first:
+      1: 100146
+    second: Fence
+  - first:
+      1: 100148
+    second: Fence.001
+  - first:
+      1: 100150
+    second: Grass 0
+  - first:
+      1: 100152
+    second: Grass 1
+  - first:
+      1: 100154
+    second: Hallway
+  - first:
+      1: 100156
+    second: Hammer
+  - first:
+      1: 100158
+    second: House Main Part
+  - first:
+      1: 100160
+    second: House Top Part
+  - first:
+      1: 100162
+    second: House Top Part.001
+  - first:
+      1: 100164
+    second: House Top Part.002
+  - first:
+      1: 100166
+    second: House Top Part.003
+  - first:
+      1: 100168
+    second: House Top Part.004
+  - first:
+      1: 100170
+    second: House Top Part.005
+  - first:
+      1: 100172
+    second: House Top Part.006
+  - first:
+      1: 100174
+    second: House Top Part.007
+  - first:
+      1: 100176
+    second: House Top Part.008
+  - first:
+      1: 100178
+    second: House Top Part.009
+  - first:
+      1: 100180
+    second: House Top Part.010
+  - first:
+      1: 100182
+    second: Knife
+  - first:
+      1: 100184
+    second: Little Stone 0
+  - first:
+      1: 100186
+    second: Little Stone 1
+  - first:
+      1: 100188
+    second: Little Stone 10
+  - first:
+      1: 100190
+    second: Little Stone 11
+  - first:
+      1: 100192
+    second: Little Stone 12
+  - first:
+      1: 100194
+    second: Little Stone 13
+  - first:
+      1: 100196
+    second: Little Stone 14
+  - first:
+      1: 100198
+    second: Little Stone 15
+  - first:
+      1: 100200
+    second: Little Stone 2
+  - first:
+      1: 100202
+    second: Little Stone 3
+  - first:
+      1: 100204
+    second: Little Stone 4
+  - first:
+      1: 100206
+    second: Little Stone 5
+  - first:
+      1: 100208
+    second: Little Stone 6
+  - first:
+      1: 100210
+    second: Little Stone 7
+  - first:
+      1: 100212
+    second: Little Stone 8
+  - first:
+      1: 100214
+    second: Little Stone 9
+  - first:
+      1: 100216
+    second: Log
+  - first:
+      1: 100218
+    second: Log.001
+  - first:
+      1: 100220
+    second: Log.002
+  - first:
+      1: 100222
+    second: //RootNode
+  - first:
+      1: 100224
+    second: Outbuilding
+  - first:
+      1: 100226
+    second: Pitchfork
+  - first:
+      1: 100228
+    second: Pitchfork.001
+  - first:
+      1: 100230
+    second: Pointer 0
+  - first:
+      1: 100232
+    second: Pointer 1
+  - first:
+      1: 100234
+    second: Pointer 2
+  - first:
+      1: 100236
+    second: Post Pointer 0
+  - first:
+      1: 100238
+    second: Post Pointer 1
+  - first:
+      1: 100240
+    second: Rake
+  - first:
+      1: 100242
+    second: Rake.001
+  - first:
+      1: 100244
+    second: Road_0 0
+  - first:
+      1: 100246
+    second: Road_0 1
+  - first:
+      1: 100248
+    second: Road_0 2
+  - first:
+      1: 100250
+    second: Road_0 3
+  - first:
+      1: 100252
+    second: Road_0 4
+  - first:
+      1: 100254
+    second: Road_0 5
+  - first:
+      1: 100256
+    second: Road_0 6
+  - first:
+      1: 100258
+    second: Road_0 7
+  - first:
+      1: 100260
+    second: Road_0 8
+  - first:
+      1: 100262
+    second: Road_1 0
+  - first:
+      1: 100264
+    second: Road_1 1
+  - first:
+      1: 100266
+    second: Road_1 2
+  - first:
+      1: 100268
+    second: Road_1 3
+  - first:
+      1: 100270
+    second: Road_1 4
+  - first:
+      1: 100272
+    second: Road_1 5
+  - first:
+      1: 100274
+    second: Road_1 6
+  - first:
+      1: 100276
+    second: Road_1 7
+  - first:
+      1: 100278
+    second: Road_1 8
+  - first:
+      1: 100280
+    second: Shed
+  - first:
+      1: 100282
+    second: Shed.001
+  - first:
+      1: 100284
+    second: Shed.002
+  - first:
+      1: 100286
+    second: Shovel
+  - first:
+      1: 100288
+    second: Shovel.001
+  - first:
+      1: 100290
+    second: Stairs
+  - first:
+      1: 100292
+    second: StairsConstruct
+  - first:
+      1: 100294
+    second: Stake
+  - first:
+      1: 100296
+    second: Stake.001
+  - first:
+      1: 100298
+    second: Stake.002
+  - first:
+      1: 100300
+    second: Stake.003
+  - first:
+      1: 100302
+    second: Stockade
+  - first:
+      1: 100304
+    second: Table
+  - first:
+      1: 100306
+    second: Table.001
+  - first:
+      1: 100308
+    second: Table.002
+  - first:
+      1: 100310
+    second: TopChest
+  - first:
+      1: 100312
+    second: TopChest1
+  - first:
+      1: 100314
+    second: TopChest2
+  - first:
+      1: 100316
+    second: Tower
+  - first:
+      1: 100318
+    second: Tree 0
+  - first:
+      1: 100320
+    second: Tree 1
+  - first:
+      1: 100322
+    second: Tree 10
+  - first:
+      1: 100324
+    second: Tree 11
+  - first:
+      1: 100326
+    second: Tree 12
+  - first:
+      1: 100328
+    second: Tree 13
+  - first:
+      1: 100330
+    second: Tree 14
+  - first:
+      1: 100332
+    second: Tree 2
+  - first:
+      1: 100334
+    second: Tree 3
+  - first:
+      1: 100336
+    second: Tree 4
+  - first:
+      1: 100338
+    second: Tree 5
+  - first:
+      1: 100340
+    second: Tree 6
+  - first:
+      1: 100342
+    second: Tree 7
+  - first:
+      1: 100344
+    second: Tree 8
+  - first:
+      1: 100346
+    second: Tree 9
+  - first:
+      1: 100348
+    second: Well
+  - first:
+      1: 100350
+    second: Window
+  - first:
+      1: 100352
+    second: Window.001
+  - first:
+      1: 100354
+    second: Window.002
+  - first:
+      1: 100356
+    second: Window.003
+  - first:
+      4: 400000
+    second: Anvil
+  - first:
+      4: 400002
+    second: Balcony
+  - first:
+      4: 400004
+    second: Balcony Prop
+  - first:
+      4: 400006
+    second: Balcony Prop.001
+  - first:
+      4: 400008
+    second: Balcony Prop.002
+  - first:
+      4: 400010
+    second: Barrel
+  - first:
+      4: 400012
+    second: Barrel.001
+  - first:
+      4: 400014
+    second: Bench
+  - first:
+      4: 400016
+    second: Bench.001
+  - first:
+      4: 400018
+    second: Bench.002
+  - first:
+      4: 400020
+    second: Big Stone 0
+  - first:
+      4: 400022
+    second: Big Stone 1
+  - first:
+      4: 400024
+    second: Big Stone 10
+  - first:
+      4: 400026
+    second: Big Stone 11
+  - first:
+      4: 400028
+    second: Big Stone 12
+  - first:
+      4: 400030
+    second: Big Stone 13
+  - first:
+      4: 400032
+    second: Big Stone 14
+  - first:
+      4: 400034
+    second: Big Stone 15
+  - first:
+      4: 400036
+    second: Big Stone 16
+  - first:
+      4: 400038
+    second: Big Stone 17
+  - first:
+      4: 400040
+    second: Big Stone 18
+  - first:
+      4: 400042
+    second: Big Stone 19
+  - first:
+      4: 400044
+    second: Big Stone 2
+  - first:
+      4: 400046
+    second: Big Stone 20
+  - first:
+      4: 400048
+    second: Big Stone 21
+  - first:
+      4: 400050
+    second: Big Stone 22
+  - first:
+      4: 400052
+    second: Big Stone 23
+  - first:
+      4: 400054
+    second: Big Stone 3
+  - first:
+      4: 400056
+    second: Big Stone 4
+  - first:
+      4: 400058
+    second: Big Stone 5
+  - first:
+      4: 400060
+    second: Big Stone 6
+  - first:
+      4: 400062
+    second: Big Stone 7
+  - first:
+      4: 400064
+    second: Big Stone 8
+  - first:
+      4: 400066
+    second: Big Stone 9
+  - first:
+      4: 400068
+    second: Board 0
+  - first:
+      4: 400070
+    second: Board 1.001
+  - first:
+      4: 400072
+    second: Board 10
+  - first:
+      4: 400074
+    second: Board 11
+  - first:
+      4: 400076
+    second: Board 12
+  - first:
+      4: 400078
+    second: Board 13
+  - first:
+      4: 400080
+    second: Board 14
+  - first:
+      4: 400082
+    second: Board 15
+  - first:
+      4: 400084
+    second: Board 16
+  - first:
+      4: 400086
+    second: Board 17
+  - first:
+      4: 400088
+    second: Board 18
+  - first:
+      4: 400090
+    second: Board 19
+  - first:
+      4: 400092
+    second: Board 2
+  - first:
+      4: 400094
+    second: Board 20
+  - first:
+      4: 400096
+    second: Board 3
+  - first:
+      4: 400098
+    second: Board 4
+  - first:
+      4: 400100
+    second: Board 5
+  - first:
+      4: 400102
+    second: Board 6
+  - first:
+      4: 400104
+    second: Board 7
+  - first:
+      4: 400106
+    second: Board 8
+  - first:
+      4: 400108
+    second: Board 9
+  - first:
+      4: 400110
+    second: Bowl
+  - first:
+      4: 400112
+    second: Box
+  - first:
+      4: 400114
+    second: Box.001
+  - first:
+      4: 400116
+    second: Bridge
+  - first:
+      4: 400118
+    second: Bridge Prop
+  - first:
+      4: 400120
+    second: Bridge Prop.001
+  - first:
+      4: 400122
+    second: Bridge.001
+  - first:
+      4: 400124
+    second: Bucket
+  - first:
+      4: 400126
+    second: Cellar
+  - first:
+      4: 400128
+    second: Chair
+  - first:
+      4: 400130
+    second: Chair.001
+  - first:
+      4: 400132
+    second: Chair.002
+  - first:
+      4: 400134
+    second: Chest
+  - first:
+      4: 400136
+    second: Chest1
+  - first:
+      4: 400138
+    second: Chest2
+  - first:
+      4: 400140
+    second: Chimney
+  - first:
+      4: 400142
+    second: Cube.125
+  - first:
+      4: 400144
+    second: Door
+  - first:
+      4: 400146
+    second: Fence
+  - first:
+      4: 400148
+    second: Fence.001
+  - first:
+      4: 400150
+    second: Grass 0
+  - first:
+      4: 400152
+    second: Grass 1
+  - first:
+      4: 400154
+    second: Hallway
+  - first:
+      4: 400156
+    second: Hammer
+  - first:
+      4: 400158
+    second: House Main Part
+  - first:
+      4: 400160
+    second: House Top Part
+  - first:
+      4: 400162
+    second: House Top Part.001
+  - first:
+      4: 400164
+    second: House Top Part.002
+  - first:
+      4: 400166
+    second: House Top Part.003
+  - first:
+      4: 400168
+    second: House Top Part.004
+  - first:
+      4: 400170
+    second: House Top Part.005
+  - first:
+      4: 400172
+    second: House Top Part.006
+  - first:
+      4: 400174
+    second: House Top Part.007
+  - first:
+      4: 400176
+    second: House Top Part.008
+  - first:
+      4: 400178
+    second: House Top Part.009
+  - first:
+      4: 400180
+    second: House Top Part.010
+  - first:
+      4: 400182
+    second: Knife
+  - first:
+      4: 400184
+    second: Little Stone 0
+  - first:
+      4: 400186
+    second: Little Stone 1
+  - first:
+      4: 400188
+    second: Little Stone 10
+  - first:
+      4: 400190
+    second: Little Stone 11
+  - first:
+      4: 400192
+    second: Little Stone 12
+  - first:
+      4: 400194
+    second: Little Stone 13
+  - first:
+      4: 400196
+    second: Little Stone 14
+  - first:
+      4: 400198
+    second: Little Stone 15
+  - first:
+      4: 400200
+    second: Little Stone 2
+  - first:
+      4: 400202
+    second: Little Stone 3
+  - first:
+      4: 400204
+    second: Little Stone 4
+  - first:
+      4: 400206
+    second: Little Stone 5
+  - first:
+      4: 400208
+    second: Little Stone 6
+  - first:
+      4: 400210
+    second: Little Stone 7
+  - first:
+      4: 400212
+    second: Little Stone 8
+  - first:
+      4: 400214
+    second: Little Stone 9
+  - first:
+      4: 400216
+    second: Log
+  - first:
+      4: 400218
+    second: Log.001
+  - first:
+      4: 400220
+    second: Log.002
+  - first:
+      4: 400222
+    second: //RootNode
+  - first:
+      4: 400224
+    second: Outbuilding
+  - first:
+      4: 400226
+    second: Pitchfork
+  - first:
+      4: 400228
+    second: Pitchfork.001
+  - first:
+      4: 400230
+    second: Pointer 0
+  - first:
+      4: 400232
+    second: Pointer 1
+  - first:
+      4: 400234
+    second: Pointer 2
+  - first:
+      4: 400236
+    second: Post Pointer 0
+  - first:
+      4: 400238
+    second: Post Pointer 1
+  - first:
+      4: 400240
+    second: Rake
+  - first:
+      4: 400242
+    second: Rake.001
+  - first:
+      4: 400244
+    second: Road_0 0
+  - first:
+      4: 400246
+    second: Road_0 1
+  - first:
+      4: 400248
+    second: Road_0 2
+  - first:
+      4: 400250
+    second: Road_0 3
+  - first:
+      4: 400252
+    second: Road_0 4
+  - first:
+      4: 400254
+    second: Road_0 5
+  - first:
+      4: 400256
+    second: Road_0 6
+  - first:
+      4: 400258
+    second: Road_0 7
+  - first:
+      4: 400260
+    second: Road_0 8
+  - first:
+      4: 400262
+    second: Road_1 0
+  - first:
+      4: 400264
+    second: Road_1 1
+  - first:
+      4: 400266
+    second: Road_1 2
+  - first:
+      4: 400268
+    second: Road_1 3
+  - first:
+      4: 400270
+    second: Road_1 4
+  - first:
+      4: 400272
+    second: Road_1 5
+  - first:
+      4: 400274
+    second: Road_1 6
+  - first:
+      4: 400276
+    second: Road_1 7
+  - first:
+      4: 400278
+    second: Road_1 8
+  - first:
+      4: 400280
+    second: Shed
+  - first:
+      4: 400282
+    second: Shed.001
+  - first:
+      4: 400284
+    second: Shed.002
+  - first:
+      4: 400286
+    second: Shovel
+  - first:
+      4: 400288
+    second: Shovel.001
+  - first:
+      4: 400290
+    second: Stairs
+  - first:
+      4: 400292
+    second: StairsConstruct
+  - first:
+      4: 400294
+    second: Stake
+  - first:
+      4: 400296
+    second: Stake.001
+  - first:
+      4: 400298
+    second: Stake.002
+  - first:
+      4: 400300
+    second: Stake.003
+  - first:
+      4: 400302
+    second: Stockade
+  - first:
+      4: 400304
+    second: Table
+  - first:
+      4: 400306
+    second: Table.001
+  - first:
+      4: 400308
+    second: Table.002
+  - first:
+      4: 400310
+    second: TopChest
+  - first:
+      4: 400312
+    second: TopChest1
+  - first:
+      4: 400314
+    second: TopChest2
+  - first:
+      4: 400316
+    second: Tower
+  - first:
+      4: 400318
+    second: Tree 0
+  - first:
+      4: 400320
+    second: Tree 1
+  - first:
+      4: 400322
+    second: Tree 10
+  - first:
+      4: 400324
+    second: Tree 11
+  - first:
+      4: 400326
+    second: Tree 12
+  - first:
+      4: 400328
+    second: Tree 13
+  - first:
+      4: 400330
+    second: Tree 14
+  - first:
+      4: 400332
+    second: Tree 2
+  - first:
+      4: 400334
+    second: Tree 3
+  - first:
+      4: 400336
+    second: Tree 4
+  - first:
+      4: 400338
+    second: Tree 5
+  - first:
+      4: 400340
+    second: Tree 6
+  - first:
+      4: 400342
+    second: Tree 7
+  - first:
+      4: 400344
+    second: Tree 8
+  - first:
+      4: 400346
+    second: Tree 9
+  - first:
+      4: 400348
+    second: Well
+  - first:
+      4: 400350
+    second: Window
+  - first:
+      4: 400352
+    second: Window.001
+  - first:
+      4: 400354
+    second: Window.002
+  - first:
+      4: 400356
+    second: Window.003
+  - first:
+      23: 2300000
+    second: Anvil
+  - first:
+      23: 2300002
+    second: Balcony
+  - first:
+      23: 2300004
+    second: Balcony Prop
+  - first:
+      23: 2300006
+    second: Balcony Prop.001
+  - first:
+      23: 2300008
+    second: Balcony Prop.002
+  - first:
+      23: 2300010
+    second: Barrel
+  - first:
+      23: 2300012
+    second: Barrel.001
+  - first:
+      23: 2300014
+    second: Bench
+  - first:
+      23: 2300016
+    second: Bench.001
+  - first:
+      23: 2300018
+    second: Bench.002
+  - first:
+      23: 2300020
+    second: Big Stone 0
+  - first:
+      23: 2300022
+    second: Big Stone 1
+  - first:
+      23: 2300024
+    second: Big Stone 10
+  - first:
+      23: 2300026
+    second: Big Stone 11
+  - first:
+      23: 2300028
+    second: Big Stone 12
+  - first:
+      23: 2300030
+    second: Big Stone 13
+  - first:
+      23: 2300032
+    second: Big Stone 14
+  - first:
+      23: 2300034
+    second: Big Stone 15
+  - first:
+      23: 2300036
+    second: Big Stone 16
+  - first:
+      23: 2300038
+    second: Big Stone 17
+  - first:
+      23: 2300040
+    second: Big Stone 18
+  - first:
+      23: 2300042
+    second: Big Stone 19
+  - first:
+      23: 2300044
+    second: Big Stone 2
+  - first:
+      23: 2300046
+    second: Big Stone 20
+  - first:
+      23: 2300048
+    second: Big Stone 21
+  - first:
+      23: 2300050
+    second: Big Stone 22
+  - first:
+      23: 2300052
+    second: Big Stone 23
+  - first:
+      23: 2300054
+    second: Big Stone 3
+  - first:
+      23: 2300056
+    second: Big Stone 4
+  - first:
+      23: 2300058
+    second: Big Stone 5
+  - first:
+      23: 2300060
+    second: Big Stone 6
+  - first:
+      23: 2300062
+    second: Big Stone 7
+  - first:
+      23: 2300064
+    second: Big Stone 8
+  - first:
+      23: 2300066
+    second: Big Stone 9
+  - first:
+      23: 2300068
+    second: Board 0
+  - first:
+      23: 2300070
+    second: Board 1.001
+  - first:
+      23: 2300072
+    second: Board 10
+  - first:
+      23: 2300074
+    second: Board 11
+  - first:
+      23: 2300076
+    second: Board 12
+  - first:
+      23: 2300078
+    second: Board 13
+  - first:
+      23: 2300080
+    second: Board 14
+  - first:
+      23: 2300082
+    second: Board 15
+  - first:
+      23: 2300084
+    second: Board 16
+  - first:
+      23: 2300086
+    second: Board 17
+  - first:
+      23: 2300088
+    second: Board 18
+  - first:
+      23: 2300090
+    second: Board 19
+  - first:
+      23: 2300092
+    second: Board 2
+  - first:
+      23: 2300094
+    second: Board 20
+  - first:
+      23: 2300096
+    second: Board 3
+  - first:
+      23: 2300098
+    second: Board 4
+  - first:
+      23: 2300100
+    second: Board 5
+  - first:
+      23: 2300102
+    second: Board 6
+  - first:
+      23: 2300104
+    second: Board 7
+  - first:
+      23: 2300106
+    second: Board 8
+  - first:
+      23: 2300108
+    second: Board 9
+  - first:
+      23: 2300110
+    second: Bowl
+  - first:
+      23: 2300112
+    second: Box
+  - first:
+      23: 2300114
+    second: Box.001
+  - first:
+      23: 2300116
+    second: Bridge
+  - first:
+      23: 2300118
+    second: Bridge Prop
+  - first:
+      23: 2300120
+    second: Bridge Prop.001
+  - first:
+      23: 2300122
+    second: Bridge.001
+  - first:
+      23: 2300124
+    second: Bucket
+  - first:
+      23: 2300126
+    second: Cellar
+  - first:
+      23: 2300128
+    second: Chair
+  - first:
+      23: 2300130
+    second: Chair.001
+  - first:
+      23: 2300132
+    second: Chair.002
+  - first:
+      23: 2300134
+    second: Chest
+  - first:
+      23: 2300136
+    second: Chest1
+  - first:
+      23: 2300138
+    second: Chest2
+  - first:
+      23: 2300140
+    second: Chimney
+  - first:
+      23: 2300142
+    second: Cube.125
+  - first:
+      23: 2300144
+    second: Door
+  - first:
+      23: 2300146
+    second: Fence
+  - first:
+      23: 2300148
+    second: Fence.001
+  - first:
+      23: 2300150
+    second: Grass 0
+  - first:
+      23: 2300152
+    second: Grass 1
+  - first:
+      23: 2300154
+    second: Hallway
+  - first:
+      23: 2300156
+    second: Hammer
+  - first:
+      23: 2300158
+    second: House Main Part
+  - first:
+      23: 2300160
+    second: House Top Part
+  - first:
+      23: 2300162
+    second: House Top Part.001
+  - first:
+      23: 2300164
+    second: House Top Part.002
+  - first:
+      23: 2300166
+    second: House Top Part.003
+  - first:
+      23: 2300168
+    second: House Top Part.004
+  - first:
+      23: 2300170
+    second: House Top Part.005
+  - first:
+      23: 2300172
+    second: House Top Part.006
+  - first:
+      23: 2300174
+    second: House Top Part.007
+  - first:
+      23: 2300176
+    second: House Top Part.008
+  - first:
+      23: 2300178
+    second: House Top Part.009
+  - first:
+      23: 2300180
+    second: House Top Part.010
+  - first:
+      23: 2300182
+    second: Knife
+  - first:
+      23: 2300184
+    second: Little Stone 0
+  - first:
+      23: 2300186
+    second: Little Stone 1
+  - first:
+      23: 2300188
+    second: Little Stone 10
+  - first:
+      23: 2300190
+    second: Little Stone 11
+  - first:
+      23: 2300192
+    second: Little Stone 12
+  - first:
+      23: 2300194
+    second: Little Stone 13
+  - first:
+      23: 2300196
+    second: Little Stone 14
+  - first:
+      23: 2300198
+    second: Little Stone 15
+  - first:
+      23: 2300200
+    second: Little Stone 2
+  - first:
+      23: 2300202
+    second: Little Stone 3
+  - first:
+      23: 2300204
+    second: Little Stone 4
+  - first:
+      23: 2300206
+    second: Little Stone 5
+  - first:
+      23: 2300208
+    second: Little Stone 6
+  - first:
+      23: 2300210
+    second: Little Stone 7
+  - first:
+      23: 2300212
+    second: Little Stone 8
+  - first:
+      23: 2300214
+    second: Little Stone 9
+  - first:
+      23: 2300216
+    second: Log
+  - first:
+      23: 2300218
+    second: Log.001
+  - first:
+      23: 2300220
+    second: Log.002
+  - first:
+      23: 2300222
+    second: Outbuilding
+  - first:
+      23: 2300224
+    second: Pitchfork
+  - first:
+      23: 2300226
+    second: Pitchfork.001
+  - first:
+      23: 2300228
+    second: Pointer 0
+  - first:
+      23: 2300230
+    second: Pointer 1
+  - first:
+      23: 2300232
+    second: Pointer 2
+  - first:
+      23: 2300234
+    second: Post Pointer 0
+  - first:
+      23: 2300236
+    second: Post Pointer 1
+  - first:
+      23: 2300238
+    second: Rake
+  - first:
+      23: 2300240
+    second: Rake.001
+  - first:
+      23: 2300242
+    second: Road_0 0
+  - first:
+      23: 2300244
+    second: Road_0 1
+  - first:
+      23: 2300246
+    second: Road_0 2
+  - first:
+      23: 2300248
+    second: Road_0 3
+  - first:
+      23: 2300250
+    second: Road_0 4
+  - first:
+      23: 2300252
+    second: Road_0 5
+  - first:
+      23: 2300254
+    second: Road_0 6
+  - first:
+      23: 2300256
+    second: Road_0 7
+  - first:
+      23: 2300258
+    second: Road_0 8
+  - first:
+      23: 2300260
+    second: Road_1 0
+  - first:
+      23: 2300262
+    second: Road_1 1
+  - first:
+      23: 2300264
+    second: Road_1 2
+  - first:
+      23: 2300266
+    second: Road_1 3
+  - first:
+      23: 2300268
+    second: Road_1 4
+  - first:
+      23: 2300270
+    second: Road_1 5
+  - first:
+      23: 2300272
+    second: Road_1 6
+  - first:
+      23: 2300274
+    second: Road_1 7
+  - first:
+      23: 2300276
+    second: Road_1 8
+  - first:
+      23: 2300278
+    second: Shed
+  - first:
+      23: 2300280
+    second: Shed.001
+  - first:
+      23: 2300282
+    second: Shed.002
+  - first:
+      23: 2300284
+    second: Shovel
+  - first:
+      23: 2300286
+    second: Shovel.001
+  - first:
+      23: 2300288
+    second: Stairs
+  - first:
+      23: 2300290
+    second: StairsConstruct
+  - first:
+      23: 2300292
+    second: Stake
+  - first:
+      23: 2300294
+    second: Stake.001
+  - first:
+      23: 2300296
+    second: Stake.002
+  - first:
+      23: 2300298
+    second: Stake.003
+  - first:
+      23: 2300300
+    second: Stockade
+  - first:
+      23: 2300302
+    second: Table
+  - first:
+      23: 2300304
+    second: Table.001
+  - first:
+      23: 2300306
+    second: Table.002
+  - first:
+      23: 2300308
+    second: TopChest
+  - first:
+      23: 2300310
+    second: TopChest1
+  - first:
+      23: 2300312
+    second: TopChest2
+  - first:
+      23: 2300314
+    second: Tower
+  - first:
+      23: 2300316
+    second: Tree 0
+  - first:
+      23: 2300318
+    second: Tree 1
+  - first:
+      23: 2300320
+    second: Tree 10
+  - first:
+      23: 2300322
+    second: Tree 11
+  - first:
+      23: 2300324
+    second: Tree 12
+  - first:
+      23: 2300326
+    second: Tree 13
+  - first:
+      23: 2300328
+    second: Tree 14
+  - first:
+      23: 2300330
+    second: Tree 2
+  - first:
+      23: 2300332
+    second: Tree 3
+  - first:
+      23: 2300334
+    second: Tree 4
+  - first:
+      23: 2300336
+    second: Tree 5
+  - first:
+      23: 2300338
+    second: Tree 6
+  - first:
+      23: 2300340
+    second: Tree 7
+  - first:
+      23: 2300342
+    second: Tree 8
+  - first:
+      23: 2300344
+    second: Tree 9
+  - first:
+      23: 2300346
+    second: Well
+  - first:
+      23: 2300348
+    second: Window
+  - first:
+      23: 2300350
+    second: Window.001
+  - first:
+      23: 2300352
+    second: Window.002
+  - first:
+      23: 2300354
+    second: Window.003
+  - first:
+      33: 3300000
+    second: Anvil
+  - first:
+      33: 3300002
+    second: Balcony
+  - first:
+      33: 3300004
+    second: Balcony Prop
+  - first:
+      33: 3300006
+    second: Balcony Prop.001
+  - first:
+      33: 3300008
+    second: Balcony Prop.002
+  - first:
+      33: 3300010
+    second: Barrel
+  - first:
+      33: 3300012
+    second: Barrel.001
+  - first:
+      33: 3300014
+    second: Bench
+  - first:
+      33: 3300016
+    second: Bench.001
+  - first:
+      33: 3300018
+    second: Bench.002
+  - first:
+      33: 3300020
+    second: Big Stone 0
+  - first:
+      33: 3300022
+    second: Big Stone 1
+  - first:
+      33: 3300024
+    second: Big Stone 10
+  - first:
+      33: 3300026
+    second: Big Stone 11
+  - first:
+      33: 3300028
+    second: Big Stone 12
+  - first:
+      33: 3300030
+    second: Big Stone 13
+  - first:
+      33: 3300032
+    second: Big Stone 14
+  - first:
+      33: 3300034
+    second: Big Stone 15
+  - first:
+      33: 3300036
+    second: Big Stone 16
+  - first:
+      33: 3300038
+    second: Big Stone 17
+  - first:
+      33: 3300040
+    second: Big Stone 18
+  - first:
+      33: 3300042
+    second: Big Stone 19
+  - first:
+      33: 3300044
+    second: Big Stone 2
+  - first:
+      33: 3300046
+    second: Big Stone 20
+  - first:
+      33: 3300048
+    second: Big Stone 21
+  - first:
+      33: 3300050
+    second: Big Stone 22
+  - first:
+      33: 3300052
+    second: Big Stone 23
+  - first:
+      33: 3300054
+    second: Big Stone 3
+  - first:
+      33: 3300056
+    second: Big Stone 4
+  - first:
+      33: 3300058
+    second: Big Stone 5
+  - first:
+      33: 3300060
+    second: Big Stone 6
+  - first:
+      33: 3300062
+    second: Big Stone 7
+  - first:
+      33: 3300064
+    second: Big Stone 8
+  - first:
+      33: 3300066
+    second: Big Stone 9
+  - first:
+      33: 3300068
+    second: Board 0
+  - first:
+      33: 3300070
+    second: Board 1.001
+  - first:
+      33: 3300072
+    second: Board 10
+  - first:
+      33: 3300074
+    second: Board 11
+  - first:
+      33: 3300076
+    second: Board 12
+  - first:
+      33: 3300078
+    second: Board 13
+  - first:
+      33: 3300080
+    second: Board 14
+  - first:
+      33: 3300082
+    second: Board 15
+  - first:
+      33: 3300084
+    second: Board 16
+  - first:
+      33: 3300086
+    second: Board 17
+  - first:
+      33: 3300088
+    second: Board 18
+  - first:
+      33: 3300090
+    second: Board 19
+  - first:
+      33: 3300092
+    second: Board 2
+  - first:
+      33: 3300094
+    second: Board 20
+  - first:
+      33: 3300096
+    second: Board 3
+  - first:
+      33: 3300098
+    second: Board 4
+  - first:
+      33: 3300100
+    second: Board 5
+  - first:
+      33: 3300102
+    second: Board 6
+  - first:
+      33: 3300104
+    second: Board 7
+  - first:
+      33: 3300106
+    second: Board 8
+  - first:
+      33: 3300108
+    second: Board 9
+  - first:
+      33: 3300110
+    second: Bowl
+  - first:
+      33: 3300112
+    second: Box
+  - first:
+      33: 3300114
+    second: Box.001
+  - first:
+      33: 3300116
+    second: Bridge
+  - first:
+      33: 3300118
+    second: Bridge Prop
+  - first:
+      33: 3300120
+    second: Bridge Prop.001
+  - first:
+      33: 3300122
+    second: Bridge.001
+  - first:
+      33: 3300124
+    second: Bucket
+  - first:
+      33: 3300126
+    second: Cellar
+  - first:
+      33: 3300128
+    second: Chair
+  - first:
+      33: 3300130
+    second: Chair.001
+  - first:
+      33: 3300132
+    second: Chair.002
+  - first:
+      33: 3300134
+    second: Chest
+  - first:
+      33: 3300136
+    second: Chest1
+  - first:
+      33: 3300138
+    second: Chest2
+  - first:
+      33: 3300140
+    second: Chimney
+  - first:
+      33: 3300142
+    second: Cube.125
+  - first:
+      33: 3300144
+    second: Door
+  - first:
+      33: 3300146
+    second: Fence
+  - first:
+      33: 3300148
+    second: Fence.001
+  - first:
+      33: 3300150
+    second: Grass 0
+  - first:
+      33: 3300152
+    second: Grass 1
+  - first:
+      33: 3300154
+    second: Hallway
+  - first:
+      33: 3300156
+    second: Hammer
+  - first:
+      33: 3300158
+    second: House Main Part
+  - first:
+      33: 3300160
+    second: House Top Part
+  - first:
+      33: 3300162
+    second: House Top Part.001
+  - first:
+      33: 3300164
+    second: House Top Part.002
+  - first:
+      33: 3300166
+    second: House Top Part.003
+  - first:
+      33: 3300168
+    second: House Top Part.004
+  - first:
+      33: 3300170
+    second: House Top Part.005
+  - first:
+      33: 3300172
+    second: House Top Part.006
+  - first:
+      33: 3300174
+    second: House Top Part.007
+  - first:
+      33: 3300176
+    second: House Top Part.008
+  - first:
+      33: 3300178
+    second: House Top Part.009
+  - first:
+      33: 3300180
+    second: House Top Part.010
+  - first:
+      33: 3300182
+    second: Knife
+  - first:
+      33: 3300184
+    second: Little Stone 0
+  - first:
+      33: 3300186
+    second: Little Stone 1
+  - first:
+      33: 3300188
+    second: Little Stone 10
+  - first:
+      33: 3300190
+    second: Little Stone 11
+  - first:
+      33: 3300192
+    second: Little Stone 12
+  - first:
+      33: 3300194
+    second: Little Stone 13
+  - first:
+      33: 3300196
+    second: Little Stone 14
+  - first:
+      33: 3300198
+    second: Little Stone 15
+  - first:
+      33: 3300200
+    second: Little Stone 2
+  - first:
+      33: 3300202
+    second: Little Stone 3
+  - first:
+      33: 3300204
+    second: Little Stone 4
+  - first:
+      33: 3300206
+    second: Little Stone 5
+  - first:
+      33: 3300208
+    second: Little Stone 6
+  - first:
+      33: 3300210
+    second: Little Stone 7
+  - first:
+      33: 3300212
+    second: Little Stone 8
+  - first:
+      33: 3300214
+    second: Little Stone 9
+  - first:
+      33: 3300216
+    second: Log
+  - first:
+      33: 3300218
+    second: Log.001
+  - first:
+      33: 3300220
+    second: Log.002
+  - first:
+      33: 3300222
+    second: Outbuilding
+  - first:
+      33: 3300224
+    second: Pitchfork
+  - first:
+      33: 3300226
+    second: Pitchfork.001
+  - first:
+      33: 3300228
+    second: Pointer 0
+  - first:
+      33: 3300230
+    second: Pointer 1
+  - first:
+      33: 3300232
+    second: Pointer 2
+  - first:
+      33: 3300234
+    second: Post Pointer 0
+  - first:
+      33: 3300236
+    second: Post Pointer 1
+  - first:
+      33: 3300238
+    second: Rake
+  - first:
+      33: 3300240
+    second: Rake.001
+  - first:
+      33: 3300242
+    second: Road_0 0
+  - first:
+      33: 3300244
+    second: Road_0 1
+  - first:
+      33: 3300246
+    second: Road_0 2
+  - first:
+      33: 3300248
+    second: Road_0 3
+  - first:
+      33: 3300250
+    second: Road_0 4
+  - first:
+      33: 3300252
+    second: Road_0 5
+  - first:
+      33: 3300254
+    second: Road_0 6
+  - first:
+      33: 3300256
+    second: Road_0 7
+  - first:
+      33: 3300258
+    second: Road_0 8
+  - first:
+      33: 3300260
+    second: Road_1 0
+  - first:
+      33: 3300262
+    second: Road_1 1
+  - first:
+      33: 3300264
+    second: Road_1 2
+  - first:
+      33: 3300266
+    second: Road_1 3
+  - first:
+      33: 3300268
+    second: Road_1 4
+  - first:
+      33: 3300270
+    second: Road_1 5
+  - first:
+      33: 3300272
+    second: Road_1 6
+  - first:
+      33: 3300274
+    second: Road_1 7
+  - first:
+      33: 3300276
+    second: Road_1 8
+  - first:
+      33: 3300278
+    second: Shed
+  - first:
+      33: 3300280
+    second: Shed.001
+  - first:
+      33: 3300282
+    second: Shed.002
+  - first:
+      33: 3300284
+    second: Shovel
+  - first:
+      33: 3300286
+    second: Shovel.001
+  - first:
+      33: 3300288
+    second: Stairs
+  - first:
+      33: 3300290
+    second: StairsConstruct
+  - first:
+      33: 3300292
+    second: Stake
+  - first:
+      33: 3300294
+    second: Stake.001
+  - first:
+      33: 3300296
+    second: Stake.002
+  - first:
+      33: 3300298
+    second: Stake.003
+  - first:
+      33: 3300300
+    second: Stockade
+  - first:
+      33: 3300302
+    second: Table
+  - first:
+      33: 3300304
+    second: Table.001
+  - first:
+      33: 3300306
+    second: Table.002
+  - first:
+      33: 3300308
+    second: TopChest
+  - first:
+      33: 3300310
+    second: TopChest1
+  - first:
+      33: 3300312
+    second: TopChest2
+  - first:
+      33: 3300314
+    second: Tower
+  - first:
+      33: 3300316
+    second: Tree 0
+  - first:
+      33: 3300318
+    second: Tree 1
+  - first:
+      33: 3300320
+    second: Tree 10
+  - first:
+      33: 3300322
+    second: Tree 11
+  - first:
+      33: 3300324
+    second: Tree 12
+  - first:
+      33: 3300326
+    second: Tree 13
+  - first:
+      33: 3300328
+    second: Tree 14
+  - first:
+      33: 3300330
+    second: Tree 2
+  - first:
+      33: 3300332
+    second: Tree 3
+  - first:
+      33: 3300334
+    second: Tree 4
+  - first:
+      33: 3300336
+    second: Tree 5
+  - first:
+      33: 3300338
+    second: Tree 6
+  - first:
+      33: 3300340
+    second: Tree 7
+  - first:
+      33: 3300342
+    second: Tree 8
+  - first:
+      33: 3300344
+    second: Tree 9
+  - first:
+      33: 3300346
+    second: Well
+  - first:
+      33: 3300348
+    second: Window
+  - first:
+      33: 3300350
+    second: Window.001
+  - first:
+      33: 3300352
+    second: Window.002
+  - first:
+      33: 3300354
+    second: Window.003
+  - first:
+      43: 4300000
+    second: Log.002
+  - first:
+      43: 4300002
+    second: Log.001
+  - first:
+      43: 4300004
+    second: Log
+  - first:
+      43: 4300006
+    second: Tree 14
+  - first:
+      43: 4300008
+    second: StairsConstruct
+  - first:
+      43: 4300010
+    second: Bridge Prop.001
+  - first:
+      43: 4300012
+    second: Bridge Prop
+  - first:
+      43: 4300014
+    second: Table
+  - first:
+      43: 4300016
+    second: Table.001
+  - first:
+      43: 4300018
+    second: Bench.001
+  - first:
+      43: 4300020
+    second: Bench.002
+  - first:
+      43: 4300022
+    second: TopChest1
+  - first:
+      43: 4300024
+    second: Chest1
+  - first:
+      43: 4300026
+    second: Chest2
+  - first:
+      43: 4300028
+    second: TopChest2
+  - first:
+      43: 4300030
+    second: Chair
+  - first:
+      43: 4300032
+    second: Chair.001
+  - first:
+      43: 4300034
+    second: Barrel
+  - first:
+      43: 4300036
+    second: Box
+  - first:
+      43: 4300038
+    second: Board 14
+  - first:
+      43: 4300040
+    second: Board 20
+  - first:
+      43: 4300042
+    second: Board 19
+  - first:
+      43: 4300044
+    second: Board 18
+  - first:
+      43: 4300046
+    second: Board 17
+  - first:
+      43: 4300048
+    second: Board 16
+  - first:
+      43: 4300050
+    second: Board 15
+  - first:
+      43: 4300052
+    second: Board 8
+  - first:
+      43: 4300054
+    second: Board 9
+  - first:
+      43: 4300056
+    second: Board 10
+  - first:
+      43: 4300058
+    second: Board 11
+  - first:
+      43: 4300060
+    second: Board 12
+  - first:
+      43: 4300062
+    second: Board 13
+  - first:
+      43: 4300064
+    second: Board 7
+  - first:
+      43: 4300066
+    second: Shovel.001
+  - first:
+      43: 4300068
+    second: Rake.001
+  - first:
+      43: 4300070
+    second: Pitchfork.001
+  - first:
+      43: 4300072
+    second: House Top Part.007
+  - first:
+      43: 4300074
+    second: House Top Part.008
+  - first:
+      43: 4300076
+    second: House Top Part.010
+  - first:
+      43: 4300078
+    second: House Top Part.009
+  - first:
+      43: 4300080
+    second: House Top Part.005
+  - first:
+      43: 4300082
+    second: House Top Part.006
+  - first:
+      43: 4300084
+    second: House Top Part.004
+  - first:
+      43: 4300086
+    second: House Top Part.003
+  - first:
+      43: 4300088
+    second: Window
+  - first:
+      43: 4300090
+    second: Window.001
+  - first:
+      43: 4300092
+    second: Window.002
+  - first:
+      43: 4300094
+    second: Balcony Prop
+  - first:
+      43: 4300096
+    second: Balcony Prop.002
+  - first:
+      43: 4300098
+    second: Big Stone 21
+  - first:
+      43: 4300100
+    second: Big Stone 22
+  - first:
+      43: 4300102
+    second: Big Stone 20
+  - first:
+      43: 4300104
+    second: Big Stone 19
+  - first:
+      43: 4300106
+    second: Big Stone 18
+  - first:
+      43: 4300108
+    second: Big Stone 23
+  - first:
+      43: 4300110
+    second: Big Stone 17
+  - first:
+      43: 4300112
+    second: Big Stone 12
+  - first:
+      43: 4300114
+    second: Big Stone 13
+  - first:
+      43: 4300116
+    second: Big Stone 14
+  - first:
+      43: 4300118
+    second: Big Stone 16
+  - first:
+      43: 4300120
+    second: Big Stone 15
+  - first:
+      43: 4300122
+    second: Big Stone 9
+  - first:
+      43: 4300124
+    second: Big Stone 10
+  - first:
+      43: 4300126
+    second: Big Stone 8
+  - first:
+      43: 4300128
+    second: Big Stone 7
+  - first:
+      43: 4300130
+    second: Big Stone 6
+  - first:
+      43: 4300132
+    second: Big Stone 11
+  - first:
+      43: 4300134
+    second: Little Stone 15
+  - first:
+      43: 4300136
+    second: Little Stone 14
+  - first:
+      43: 4300138
+    second: Little Stone 13
+  - first:
+      43: 4300140
+    second: Little Stone 12
+  - first:
+      43: 4300142
+    second: Little Stone 8
+  - first:
+      43: 4300144
+    second: Little Stone 9
+  - first:
+      43: 4300146
+    second: Little Stone 10
+  - first:
+      43: 4300148
+    second: Little Stone 11
+  - first:
+      43: 4300150
+    second: Little Stone 7
+  - first:
+      43: 4300152
+    second: Little Stone 6
+  - first:
+      43: 4300154
+    second: Little Stone 5
+  - first:
+      43: 4300156
+    second: Little Stone 4
+  - first:
+      43: 4300158
+    second: Tree 8
+  - first:
+      43: 4300160
+    second: Tree 0
+  - first:
+      43: 4300162
+    second: Tree 4
+  - first:
+      43: 4300164
+    second: Tree 5
+  - first:
+      43: 4300166
+    second: Tree 1
+  - first:
+      43: 4300168
+    second: Tree 9
+  - first:
+      43: 4300170
+    second: Tree 10
+  - first:
+      43: 4300172
+    second: Tree 2
+  - first:
+      43: 4300174
+    second: Tree 6
+  - first:
+      43: 4300176
+    second: Road_1 0
+  - first:
+      43: 4300178
+    second: Road_1 2
+  - first:
+      43: 4300180
+    second: Road_1 6
+  - first:
+      43: 4300182
+    second: Road_1 1
+  - first:
+      43: 4300184
+    second: Road_1 7
+  - first:
+      43: 4300186
+    second: Road_1 8
+  - first:
+      43: 4300188
+    second: Road_1 5
+  - first:
+      43: 4300190
+    second: Road_1 3
+  - first:
+      43: 4300192
+    second: Road_1 4
+  - first:
+      43: 4300194
+    second: Pitchfork
+  - first:
+      43: 4300196
+    second: Rake
+  - first:
+      43: 4300198
+    second: Shovel
+  - first:
+      43: 4300200
+    second: Knife
+  - first:
+      43: 4300202
+    second: Shed.001
+  - first:
+      43: 4300204
+    second: Board 0
+  - first:
+      43: 4300206
+    second: Board 6
+  - first:
+      43: 4300208
+    second: Board 5
+  - first:
+      43: 4300210
+    second: Board 4
+  - first:
+      43: 4300212
+    second: Board 3
+  - first:
+      43: 4300214
+    second: Board 2
+  - first:
+      43: 4300216
+    second: Board 1.001
+  - first:
+      43: 4300218
+    second: Balcony Prop.001
+  - first:
+      43: 4300220
+    second: Hammer
+  - first:
+      43: 4300222
+    second: Anvil
+  - first:
+      43: 4300224
+    second: Stockade
+  - first:
+      43: 4300226
+    second: Stake
+  - first:
+      43: 4300228
+    second: Stake.001
+  - first:
+      43: 4300230
+    second: Stake.002
+  - first:
+      43: 4300232
+    second: Stake.003
+  - first:
+      43: 4300234
+    second: Stairs
+  - first:
+      43: 4300236
+    second: Tower
+  - first:
+      43: 4300238
+    second: House Top Part.002
+  - first:
+      43: 4300240
+    second: House Top Part
+  - first:
+      43: 4300242
+    second: House Top Part.001
+  - first:
+      43: 4300244
+    second: Tree 13
+  - first:
+      43: 4300246
+    second: Outbuilding
+  - first:
+      43: 4300248
+    second: Big Stone 5
+  - first:
+      43: 4300250
+    second: Big Stone 0
+  - first:
+      43: 4300252
+    second: Big Stone 1
+  - first:
+      43: 4300254
+    second: Big Stone 2
+  - first:
+      43: 4300256
+    second: Big Stone 4
+  - first:
+      43: 4300258
+    second: Big Stone 3
+  - first:
+      43: 4300260
+    second: Grass 0
+  - first:
+      43: 4300262
+    second: Tree 12
+  - first:
+      43: 4300264
+    second: Table.002
+  - first:
+      43: 4300266
+    second: Pointer 1
+  - first:
+      43: 4300268
+    second: Pointer 0
+  - first:
+      43: 4300270
+    second: Post Pointer 1
+  - first:
+      43: 4300272
+    second: Pointer 2
+  - first:
+      43: 4300274
+    second: Post Pointer 0
+  - first:
+      43: 4300276
+    second: Little Stone 0
+  - first:
+      43: 4300278
+    second: Little Stone 1
+  - first:
+      43: 4300280
+    second: Little Stone 2
+  - first:
+      43: 4300282
+    second: Little Stone 3
+  - first:
+      43: 4300284
+    second: Well
+  - first:
+      43: 4300286
+    second: Bucket
+  - first:
+      43: 4300288
+    second: Cube.125
+  - first:
+      43: 4300290
+    second: Fence
+  - first:
+      43: 4300292
+    second: Barrel.001
+  - first:
+      43: 4300294
+    second: Box.001
+  - first:
+      43: 4300296
+    second: Bowl
+  - first:
+      43: 4300298
+    second: Chimney
+  - first:
+      43: 4300300
+    second: TopChest
+  - first:
+      43: 4300302
+    second: Chest
+  - first:
+      43: 4300304
+    second: Fence.001
+  - first:
+      43: 4300306
+    second: Bench
+  - first:
+      43: 4300308
+    second: Window.003
+  - first:
+      43: 4300310
+    second: Door
+  - first:
+      43: 4300312
+    second: Hallway
+  - first:
+      43: 4300314
+    second: Shed
+  - first:
+      43: 4300316
+    second: Cellar
+  - first:
+      43: 4300318
+    second: Shed.002
+  - first:
+      43: 4300320
+    second: Balcony
+  - first:
+      43: 4300322
+    second: House Main Part
+  - first:
+      43: 4300324
+    second: Chair.002
+  - first:
+      43: 4300326
+    second: Grass 1
+  - first:
+      43: 4300328
+    second: Road_0 4
+  - first:
+      43: 4300330
+    second: Road_0 3
+  - first:
+      43: 4300332
+    second: Road_0 5
+  - first:
+      43: 4300334
+    second: Road_0 8
+  - first:
+      43: 4300336
+    second: Road_0 7
+  - first:
+      43: 4300338
+    second: Road_0 1
+  - first:
+      43: 4300340
+    second: Road_0 6
+  - first:
+      43: 4300342
+    second: Road_0 2
+  - first:
+      43: 4300344
+    second: Road_0 0
+  - first:
+      43: 4300346
+    second: Tree 7
+  - first:
+      43: 4300348
+    second: Tree 3
+  - first:
+      43: 4300350
+    second: Tree 11
+  - first:
+      43: 4300352
+    second: Bridge
+  - first:
+      43: 4300354
+    second: Bridge.001
+  - first:
+      95: 9500000
+    second: //RootNode
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.5
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.5
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

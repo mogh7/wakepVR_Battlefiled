@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/non-simulator battlefield.unity
+    guid: 8b6a8576ffd2ea140a646211d8013b6a
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: e198978a2ef8c544197451badbb44c3a,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: f781394d3efb61d48a7de68e9110634e,
+      type: 2}
